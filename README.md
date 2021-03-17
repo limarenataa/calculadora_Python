@@ -1,4 +1,3 @@
-# projeto-python
 
 ### Exercício 
 
